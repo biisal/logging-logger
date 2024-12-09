@@ -11,3 +11,4 @@ MyLoggerFile.log.1
 MyLoggerFile.log.2
 logging_config.json
 main.py
+.vscode
