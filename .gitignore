@@ -1,0 +1,13 @@
+custom_format_logs.log
+basic.log
+log_with_handler.log
+multi_threaded.log
+MyLoggerFile.log
+rotated_log.log
+rotated_log.log.2
+rotated_log.log.1
+rotated_log.log.3
+MyLoggerFile.log.1
+MyLoggerFile.log.2
+logging_config.json
+main.py
